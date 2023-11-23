@@ -1,0 +1,49 @@
+/* Custom styles for signUp.html to complement Bootstrap */
+
+/* Ensures that the body and html fill the entire viewport height */
+html,
+body {
+    height: 100%;
+}
+
+.background img {
+    width: 100%;
+    height: 100vh;
+    /* Full viewport height */
+    object-fit: cover;
+    /* Ensures the image covers the area without stretching */
+    position: fixed;
+    /* Fixed position to stay in place during scrolling */
+    z-index: -1;
+    /* Places the image behind other content */
+}
+
+/* Custom style for the contact link */
+.btn-pink {
+    background-color: pink;
+    border-color: pink;
+    color: white;
+}
+
+/* Change color when hover on the contact us button*/
+.btn-pink:hover {
+    background-color: #cb416b;
+    border-color: #cb416b;
+}
+
+/* Customize the sign up button*/
+.btn-primary {
+    background-color: #333;
+    border-color: #333;
+}
+
+/* Hover effect for the sign up button*/
+.btn-primary:hover {
+    background-color: #cb416b;
+    border-color: #cb416b;
+}
+
+/* Hover effect for forget sign up*/
+.login a:hover {
+    color: #cb416b;
+}

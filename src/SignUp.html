@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <!-- Adding Font Awesome for iconography -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <!-- Linking a favicon for the website -->
+    <link rel="icon" href="img/house.ico" type="image/icon" class="website-icon" />
+
+    <!-- Our login.css stylesheet page to use for more style and override Bootstrap styles where necessary -->
+    <link rel="stylesheet" href="css/signUp.css">
+
+</head>
+
+<body>
+
+    <!-- Navigation bar for the website using Bootstrap's navbar component -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+
+        <!-- Logo for the site -->
+        <a class="navbar-logo" href="#">
+            <img src="img/logo2.png" alt="Easy Estate" height="50">
+        </a>
+
+        <!-- Button for navigation -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navigation elements -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+
+            <!-- Navigation items:
+      -- ml-auto: aligned to the right
+      -- font-weight-bold: make them bold 
+      -- px-4: spaev between the items 
+
+      -- btn btn-pink: use in css to add color pink for contact us button
+    -->
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-item nav-link font-weight-bold px-4" href="home.html">Home</a>
+                <li class="nav-item"><a class="nav-item nav-link font-weight-bold px-4" href="buy.html">Buy</a>
+                <li class="nav-item"><a class="nav-item nav-link font-weight-bold px-4" href="sell.html">Sell</a>
+                <li class="nav-item"><a class="nav-item nav-link font-weight-bold px-4" href="rent.html">Rent</a>
+                <li class="nav-item"> <a class=" nav-item nav-link font-weight-bold px-4 btn btn-pink"
+                        href="contactUs.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Full-screen background image using Bootstrap's img-fluid class -->
+    <div class="background">
+        <img src="img/1.png" alt="Background image" class="img-fluid">
+    </div>
+
+
+    <!-- 
+  --Login container using Bootstrap's components 
+-->
+    <!-- Bootstrap container with a class h-100 for it 100% height of its parent element -->
+    <div class="container h-100">
+
+        <!-- Row with 100% height
+    -- Justify-content-center aligns the children (columns) horizontally in the center
+    -- Align-items-center aligns them vertically in the center
+   -->
+        <div class="row h-100 justify-content-center align-items-center">
+
+            <!-- Defines a column. The classes are for responsive layout 
+      -- by adjusting the column width based on the screen size.
+          -- col-8 - sets the column width to 8 out of 12 columns wide for all screens
+          -- col-md-6 - sets the column width to 6 out of 12 columns wide for medium screen size
+          -- col-lg-4 - sets the column width to 4 out of 12 columns wide for large screen size
+    -->
+            <div class="col-8 col-md-6 col-lg-4">
+
+                <!-- Creates a card with a light background. -->
+                <div class="card bg-light">
+
+                    <!-- Container for the contents of the card -->
+                    <div class="card-body">
+
+                        <!-- The title for the card and be in center -->
+                        <h1 class="card-title text-center"> Login </h1>
+
+                        <!-- The start of the form/login container
+            -- mt-4: adds a margin to the top
+          -->
+                        <form class="mt-4">
+
+                            <!-- FIRST NAME -->
+                            <!-- A Bootstrap class used for optimum spacing and to add structure to forms. -->
+                            <div class="form-group">
+
+                                <!-- Bootstrap class to enable input prepend and append features -->
+                                <div class="input-group">
+
+                                    <!-- Allows the addition of an icon or text before the input field.
+                  -- For icons we are using awsome font
+                  -- The span with an icon "user icon" that appears before the input field. 
+                -->
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text" id="inputGroupPrepend"><i
+                                                class="fa fa-user"></i></span>
+                                    </div>
+
+                                    <!-- The text input field for the first name. -->
+                                    <input type="text" class="form-control" id="fristName" name="firstName"
+                                        placeholder="First Name" aria-describedby="inputGroupPrepend">
+                                </div>
+                            </div>
+
+                            <!-- LAST NAME -->
+                            <!-- A Bootstrap class used for optimum spacing and to add structure to forms. -->
+                            <div class="form-group">
+
+                                <!-- Bootstrap class to enable input prepend and append features -->
+                                <div class="input-group">
+
+                                    <!-- Allows the addition of an icon or text before the input field.
+                  -- For icons we are using awsome font
+                  -- The span with an icon "user icon" that appears before the input field. 
+                -->
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text" id="inputGroupPrepend"><i
+                                                class="fa fa-user"></i></span>
+                                    </div>
+
+                                    <!-- The text input field for the last name. -->
+                                    <input type="text" class="form-control" id="lastName" name="lastName"
+                                        placeholder="Last Name" aria-describedby="inputGroupPrepend">
+                                </div>
+                            </div>
+
+                            <!-- EMAIL -->
+                            <!-- A Bootstrap class used for optimum spacing and to add structure to forms. -->
+                            <div class="form-group">
+
+                                <!-- Bootstrap class to enable input prepend and append features -->
+                                <div class="input-group">
+
+                                    <!-- Allows the addition of an icon or text before the input field.
+                  -- For icons we are using awsome font
+                  -- The span with an icon "envelope, email, icon" that appears before the input field. 
+                -->
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text" id="inputGroupPrepend"><i
+                                                class="fa-solid fa-envelope"></i></span>
+                                    </div>
+
+                                    <!-- The text input field for the email -->
+                                    <input type="email" class="form-control" id="email" name="email" placeholder="email"
+                                        aria-describedby="inputGroupPrepend">
+                                </div>
+                            </div>
+
+                            <!-- PASSWORD -->
+                            <!-- A Bootstrap class used for optimum spacing and to add structure to forms. -->
+                            <div class="form-group">
+
+                                <!-- Bootstrap class to enable input prepend and append features -->
+                                <div class="input-group">
+
+                                    <!-- Allows the addition of an icon or text before the input field.
+                  -- For icons we are using awsome font
+                  -- The span with an icon "lock icon" that appears before the input field. 
+                -->
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text" id="inputGroupPassword"><i
+                                                class="fa fa-lock"></i></span>
+                                    </div>
+
+                                    <!--The text input field for the password -->
+                                    <input type="password" class="form-control" id="password" name="password"
+                                        placeholder="Password" aria-describedby="inputGroupPassword">
+                                </div>
+                            </div>
+
+                            <!-- A Bootstrap class for checkboxes. -->
+                            <div class="form-group form-check">
+
+                                <!-- Checkbox input for the "Remember Me" option. -->
+                                <input type="checkbox" class="form-check-input" id="remember-me">
+
+                                <!-- Label for the checkbox. -->
+                                <label class="form-check-label" for="remember-me">Remember Me</label>
+                            </div>
+
+                            <!-- Submit button for the form, styled as a primary button and taking full width of its parent. -->
+                            <button type="submit" class="btn btn-primary btn-block">Sign Up</button>
+
+                            <!-- Login option. -->
+                            <div class="login">
+
+                                <!-- Text and link for already existing users to login -->
+                                <p class="text-center">Already have an account? <a href="login.html">Login</a></p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <!-- our js page for sing up-->
+    <script src="JS/signUp.js"></script>
+
+</body>
+</html>
