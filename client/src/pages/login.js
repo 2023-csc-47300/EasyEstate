@@ -58,12 +58,11 @@ function Login() {
            </div>
             
             <Button className="w-100 mt-3" variant="secondary" type="submit"> Log In with Google </Button>
-            <Button className="w-100 mt-3" variant="secondary" type="submit"> Log In with Github </Button>
 
             <div className="mt-2 text-center">
                 <a className="text-muted" href="/signup"> New User? Create an Account </a>
             </div>
-     
+        
         </Form>
 
         

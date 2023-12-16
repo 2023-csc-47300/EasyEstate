@@ -67,8 +67,7 @@ const Signup = () => {
              </div>
               
               <Button className="w-100 mt-3" variant="secondary" type="submit"> Sign Up with Google </Button>
-              <Button className="w-100 mt-3" variant="secondary" type="submit"> Sign Up with Github </Button>
-
+             
             <div className="mt-2 text-center">
                 <a className="text-muted" href="/login"> Already have an Account? Login </a>
             </div>
