@@ -38,7 +38,7 @@ function Navigation() {
                     </Nav.Item>
                     
                     <Nav.Item>
-                        <Nav.Link className="font-weight-bold px-4" href="/calulator">Calculator</Nav.Link>
+                        <Nav.Link className="font-weight-bold px-4" href="/login">Login</Nav.Link>
                     </Nav.Item>
 
                     <Nav.Item>
