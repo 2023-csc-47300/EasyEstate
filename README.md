@@ -51,13 +51,14 @@ After installation, you can check npm and Node.js versions by using the commands
 `node -v`
 `npm -v`
 
-Step 3: Run Application
-cd to "client" directory
-npm start
+### Step 3: Run Application
+Open Command Prompt and run `npm start`
+- cd to "client" directory
+- npm start
  
-
-application should be running on localhost::3000
-Rest of the Documentation coming soon....
+### Run the Application
+Once we did all the steps, our application will start running.
+application should be running on **localhost::3000**
 
 # Language and Tools
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9ecb2fe6-0e91-4328-9f2e-9c46489643f6.png" width="75" height="105" hspace="20">
