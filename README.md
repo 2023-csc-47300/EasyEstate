@@ -1,13 +1,26 @@
-# EasyEstate
+# Easy Estate
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0864adf5-5ba8-4bdb-850f-c1824fb222da.png" width="300" height="80"> <br /> 
-### DISCOVER YOUR DREAM HOME IN <span style="color: ##cb416b;"> NYC </span> WITH US! <br />
+### DISCOVER YOUR DREAM HOME IN **NYC** WITH US! <br />
+
+# Details
+
+For our Website Design 473 class final project, we decided to build a **React app** using **Bootstrap**. Our project, **Easy Estate**, is an application that users can use to buy and sell houses in NYC.
+
+### Professor
+- Donato Cruz
+  
+### Team Memeber:
+- Jobanpreet Singh
+- Paniz Peiravani
+- Mohammed Rahman
+
+### Class Details
+Website Design - LEC 2TU - 20012
+
 ### Main Page <br />
 
-This project was bootstrapped with [Create React App]
 
-Easy Estate Final Project
-Team Members: Paniz Peiravani, Mohammed Rahman, Jobanpreet Singh
-
+# Start the Application
 Step1: clone the repo from github
 
 Step2: Install Application Dependencies
