@@ -31,7 +31,7 @@ Website Design - LEC 2TU - 20012
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1858b200-7147-440a-8186-e0c1d066dad6.png">
 
 # How to Start the Application
-### Step1: clone the repo from github
+### Step1: Clone the Repo From Github
 ### Step2: Install Application Dependencies
 
 **For Windows:**
@@ -51,14 +51,14 @@ After installation, you can check npm and Node.js versions by using the commands
 `node -v`
 `npm -v`
 
-### Step 3: Run Application
+### Step 3: Run the Application
 Open Command Prompt and run `npm start`
 - cd to "client" directory
 - npm start
  
-### Run the Application
-Once we did all the steps, our application will start running.
-application should be running on **localhost::3000**
+### Application on Web
+Once we did all the steps, our application will start running. </b>
+Application should be running on **localhost::3000**
 
 # Language and Tools
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9ecb2fe6-0e91-4328-9f2e-9c46489643f6.png" width="75" height="105" hspace="20">
