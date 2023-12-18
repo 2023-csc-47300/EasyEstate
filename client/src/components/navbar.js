@@ -2,6 +2,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Logo from "../images/logo2.png";
 import React, { useState } from "react";
+import AuthButton from './AuthButton';
 
 function Navigation() {
 
@@ -38,7 +39,7 @@ function Navigation() {
                     </Nav.Item>
                     
                     <Nav.Item>
-                        <Nav.Link className="font-weight-bold px-4" href="/login">Login</Nav.Link>
+                        <AuthButton />
                     </Nav.Item>
 
                     <Nav.Item>

@@ -32,7 +32,7 @@
   }
 }
 
-.submit-button {
+.submit-button button {
   margin-top: 20px;
   padding: 10px 20px;
   background-color: pink;
@@ -42,7 +42,7 @@
   border-radius: 4px;
 }
 
-.submit-button:hover {
+.submit-button button:hover {
   background-color: #cb416b;
   border-color: #cb416b;
   color: black;

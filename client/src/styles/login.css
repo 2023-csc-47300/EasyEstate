@@ -15,7 +15,7 @@
 
 .sign-in__wrapper form {
   width: 30vw;
-  height: 65vh;
+  height: 60vh;
   animation: showSignInForm 1s;
 }
 

@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
-import { Form, Button, Container, Row, Col } from 'react-bootstrap';
+import { Form, Button, Container} from 'react-bootstrap';
 import '../styles/home.css';
-import backgroundImage from '../images/1.png';
+
 
 const HomePage = () => {
+
+
     const [searchParams, setSearchParams] = useState({
         location: '',
         category: '',
@@ -25,6 +27,7 @@ const HomePage = () => {
         console.log(searchParams);
     };
 
+    
     return (
         <section className="search section" aria-label="search">
             <Container>
@@ -100,7 +103,9 @@ const HomePage = () => {
 
             </Container>
         </section>
+    
     );
+
 };
 
 
