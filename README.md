@@ -18,16 +18,16 @@ For our Website Design 473 class final project, we decided to build a **React ap
 Website Design - LEC 2TU - 20012
 
 # Application Overview
-## Main Page 
+### Main Page 
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
 
-## Login Page
+### Login Page
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/8fd04371-f099-439b-8210-3b1206b7bbb4.png">
 
-## Sign Up
+### Sign Up
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0ae280f6-0558-4aeb-a1d6-20ad012f5d5f.png">
 
-## Contact Us
+### Contact Us
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1858b200-7147-440a-8186-e0c1d066dad6.png">
 
 # How to Start the Application
@@ -35,7 +35,7 @@ Website Design - LEC 2TU - 20012
 ### Step2: Install Application Dependencies
 
 **For Windows:**
-- Install Node.js
+- Install Node.js 
 - Install npm
 
 After installation, you can check npm and Node.js versions by using the commands below in the command prompt:
@@ -43,6 +43,13 @@ After installation, you can check npm and Node.js versions by using the commands
 `npm -v`
 
 **For MAC:**
+- Install Homebrew
+- install Node.js 
+
+
+After installation, you can check npm and Node.js versions by using the commands below in the command prompt:
+`node -v`
+`npm -v`
 
 Step 3: Run Application
 cd to "client" directory
