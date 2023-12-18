@@ -17,8 +17,9 @@ For our Website Design 473 class final project, we decided to build a **React ap
 ### Class Details
 Website Design - LEC 2TU - 20012
 
-### Main Page <br />
-
+# Application Overview
+### Main Page 
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
 
 # Start the Application
 Step1: clone the repo from github
