@@ -33,12 +33,12 @@ Website Design - LEC 2TU - 20012
 # How to Start the Application
 **Step1:** clone the repo from github
 **Step2:** Install Application Dependencies
-          - Install Node.js
-          - Install npm
+- Install Node.js
+- Install npm
 
-          - After installation, you can check npm and Node.js versions by using the commands below in the command prompt:
-          `node -v`
-          `npm -v`
+After installation, you can check npm and Node.js versions by using the commands below in the command prompt:
+`node -v`
+`npm -v`
           
 
 Step 3: Run Application
