@@ -54,7 +54,7 @@ After installation, you can check npm and Node.js versions by using the commands
 ### Step 3: Run the Application
 Open Command Prompt and run `npm start`
 - cd to "client" directory
-- npm start
+- npm start 
  
 ### Application on Web
 Once we did all the steps, our application will start running. <br />
