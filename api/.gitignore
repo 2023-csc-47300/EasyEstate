@@ -1,0 +1,5 @@
+# ignore the virtual enironment from being added to github
+/venv
+
+__pycache__/
+*.pyc
