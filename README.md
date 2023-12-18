@@ -1,6 +1,6 @@
 # EasyEstate
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0864adf5-5ba8-4bdb-850f-c1824fb222da.png" width="300" height="80"> <br /> DISCOVER YOUR DREAM HOME IN NYC WITH US! <br />
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/575151a5-244b-4716-96a9-c93a3d7057e7.png" width="300" height="80">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/575151a5-244b-4716-96a9-c93a3d7057e7.png">
 
 This project was bootstrapped with [Create React App]
 
