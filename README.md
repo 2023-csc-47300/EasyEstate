@@ -31,11 +31,15 @@ Website Design - LEC 2TU - 20012
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1858b200-7147-440a-8186-e0c1d066dad6.png">
 
 # How to Start the Application
-Step1: clone the repo from github
+**Step1:** clone the repo from github
+**Step2:** Install Application Dependencies
+          - Install Node.js
+          - Install npm
 
-Step2: Install Application Dependencies
-
-npm install
+          - After installation, you can check npm and Node.js versions by using the commands below in the command prompt:
+          `node -v`
+          `npm -v`
+          
 
 Step 3: Run Application
 cd to "client" directory
