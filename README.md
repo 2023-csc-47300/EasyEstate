@@ -13,7 +13,7 @@ npm install
 Step 3: Run Application
 cd to "client" directory
 npm start
-
+ 
 
 application should be running on localhost::3000
 Rest of the Documentation coming soon....
