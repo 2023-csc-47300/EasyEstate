@@ -68,6 +68,16 @@ Open Command Prompt and run `npm start`
 Once we did all the steps, our application will start running. <br />
 Application should be running on **localhost::3000**
 
+# Front End & Back End
+|  Front End  |            Back End             | 
+| ----------- | ------------------------------- | 
+| JavaScript  |        Framework: Flask         | 
+|    Html     |        Database: SQLite         | 
+|    CSS      | Authentication: Google Firebase | 
+|  Bootstrap  |        Language: Pytho          | 
+|   React     |  
+
+
 # Language and Tools
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9ecb2fe6-0e91-4328-9f2e-9c46489643f6.png" width="75" height="105" hspace="20">
 <img src="https://github.com/Paniz-Peiravani/Taste-of-Persia/assets/100456553/2d286e18-ea52-4a92-8842-7ee746df2ce2.png" width="100" height="100" hspace="20">
