@@ -82,5 +82,8 @@ Application should be running on **localhost::3000**
 
 # API
 
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="30" height="40"> [The Maps Embed API](URL "[Title](https://rapidapi.com/apidojo/api/realty-in-us)https://rapidapi.com/apidojo/api/realty-in-us")
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="30" height="40"> The Maps Embed API
+
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/6b7507af-cf37-4c74-8efc-0ec20044276d.png" width="30" height="40"> Reality in US Which is Hosted on Rapid API
+
 
