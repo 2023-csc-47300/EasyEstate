@@ -68,6 +68,13 @@ Open Command Prompt and run `npm start`
 Once we did all the steps, our application will start running. <br />
 Application should be running on **localhost::3000**
 
+# User can
+- Search for their dream house.
+- Sign up for an account.
+- Log in to their existing account.
+- Log in/sign up with email or with Google.
+- Favorite their listings and be able to see them on the profile page.
+
 # Front End & Back End
 |  Front End  |            Back End             | 
 | ----------- | ------------------------------- | 
