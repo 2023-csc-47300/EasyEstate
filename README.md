@@ -18,17 +18,23 @@ For our Website Design 473 class final project, we decided to build a **React ap
 Website Design - LEC 2TU - 20012
 
 # Application Overview
-### Main Page 
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
-
 ### Login Page
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/8fd04371-f099-439b-8210-3b1206b7bbb4.png">
+Users can use this page to log in to their existing accounts. 
+If they do not have an account, users can click on "New User? Create an Account" which will direct them to the sign-up page.
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0cfe0cdc-8858-4585-a5e8-6ccae52b9452.png">
 
 ### Sign Up
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0ae280f6-0558-4aeb-a1d6-20ad012f5d5f.png">
+On our sign-up page, users can create an account. 
+They can use any email as long as it contains an "@". The password must be at least 6 characters long.
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1f814fb4-4001-47ec-ae9b-9628353c418e.png">
 
+### Main Page 
+On the main page, users can search for their dream area, house categories, and the minimum and maximum price within their budget
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
+
+In the main page, user can search their dream area, house Categories, min and mac price of their budget.
 ### Contact Us
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1858b200-7147-440a-8186-e0c1d066dad6.png">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/15aa481c-6fcf-4aa5-9bbe-7ea6e814561b.png">
 
 # How to Start the Application
 ### Step1: Clone the Repo From Github
