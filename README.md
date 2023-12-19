@@ -2,7 +2,7 @@
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0864adf5-5ba8-4bdb-850f-c1824fb222da.png" width="300" height="80"> <br /> 
 ### DISCOVER YOUR DREAM HOME IN **NYC** WITH US! <br />
 
-# Details
+# Introduction
 
 For our Website Design 473 class final project, we decided to build a **React app** using **Bootstrap**. Our project, **Easy Estate**, is an application that users can use to buy and sell houses in NYC.
 
