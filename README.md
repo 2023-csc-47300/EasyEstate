@@ -77,7 +77,11 @@ Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
 - Log in/sign up with email or with Google.
 - Select any location in NY.
 - Choose house categories:
-- | Multi Family | Single Family | Mobile | Land | Farm |
+    - Multi Family
+    - Single Family
+    - Mobile
+    - Land
+    - Farm 
 - Choose their minimum and maximum price.
 
 # Front End & Back End
