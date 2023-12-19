@@ -36,8 +36,8 @@ On the main page, users can search for their dream area, house categories, and t
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f5b41417-0dd1-4d3f-8ebc-fc7e5f3e2159.png">
 
 ### Begin Searching for the Listings
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/b1ad5c05-8391-41ac-b5e5-71abb6b9fcf1.png">
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/eb1d7abe-19de-4041-80d0-d1828489b012.png">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/e11f2dfc-a539-4b60-a282-4fe649f38b04.png">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/722b19e1-b1cc-4fe3-9d33-a47d2962648b.png">
 
 ### Result
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/e7be1f20-3943-4386-b6da-1170a416b698.png">
