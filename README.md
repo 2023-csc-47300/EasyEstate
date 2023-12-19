@@ -95,6 +95,25 @@ Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
     - Farm 
 - Choose their minimum and maximum price.
 
+# Users See
+- Properties based on their search.
+- Property Details:
+    - Address
+    - Price
+    - Listing Agent
+    - Listed On
+- Street View.
+- Description of the listing:
+    - Sqft
+    - Lot Sqft
+    - Number of Bedroom
+    - Number of Bathroom
+    - Type
+    - Stories
+    - Sold Price
+    - Sold Date
+    - Year Built
+
 # Front End & Back End
 |  Front End  |            Back End             | 
 | ----------- | ------------------------------- | 
