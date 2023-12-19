@@ -33,7 +33,17 @@ They can use any email as long as it contains an "@". The password must be at le
 ### Main Page 
 On the main page, users can search for their dream area, house categories, and the minimum and maximum price within their budget. <br />
 <br />
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f5b41417-0dd1-4d3f-8ebc-fc7e5f3e2159.png">
+
+### Begin Searching for the Listings
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/e33d40f6-8e19-4d85-b4a3-ffd08fe7a88f.png">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/a0f1f99a-6b3f-437f-bf74-e2802edf06e4.png">
+
+### Result
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9b5ca7bf-15ac-4f11-834e-4842883f02c8.png">
+
+### Each Listing
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1bdac819-22f9-4180-8b00-68e91746259c.png">
 
 ### Contact Us
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/15aa481c-6fcf-4aa5-9bbe-7ea6e814561b.png">
