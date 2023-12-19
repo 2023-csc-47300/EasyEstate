@@ -83,9 +83,9 @@ Application should be running on **localhost::3000**
 # API
 
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="30" height="40"> The Maps Embed API Which is Hosted by [Google Map](URL "https://developers.google.com/maps/documentation/embed/get-started") <br />
-- This API will allow us to embed an interactive map into the website using simple HTTP requests
+This API will allow us to embed an interactive map into the website using simple HTTP requests
 
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/6b7507af-cf37-4c74-8efc-0ec20044276d.png" width="80" height="40"> Reality in US Which is Hosted on [Rapid API](URL "https://rapidapi.com/apidojo/api/realty-in-us") <br />
-- This API helps to query properties for sale, rent, sold, etc. We will use the location endpoint to get a specific property by its address.
+This API helps to query properties for sale, rent, sold, etc. We will use the location endpoint to get a specific property by its address.
 
 
