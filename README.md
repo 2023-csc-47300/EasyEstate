@@ -21,18 +21,20 @@ Website Design - LEC 2TU - 20012
 ### Login Page
 Users can use this page to log in to their existing accounts. 
 If they do not have an account, users can click on "New User? Create an Account" which will direct them to the sign-up page. <br />
+<br />
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/0cfe0cdc-8858-4585-a5e8-6ccae52b9452.png">
 
 ### Sign Up
 On our sign-up page, users can create an account. 
 They can use any email as long as it contains an "@". The password must be at least 6 characters long. <br />
+<br />
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/1f814fb4-4001-47ec-ae9b-9628353c418e.png">
 
 ### Main Page 
 On the main page, users can search for their dream area, house categories, and the minimum and maximum price within their budget. <br />
+<br />
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/f35ebd9a-2792-4563-9ea0-031c185f2936.png">
 
-In the main page, user can search their dream area, house Categories, min and mac price of their budget. <br />
 ### Contact Us
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/15aa481c-6fcf-4aa5-9bbe-7ea6e814561b.png">
 
