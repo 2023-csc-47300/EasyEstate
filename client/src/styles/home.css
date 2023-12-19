@@ -73,8 +73,8 @@
 
 .search-form Button {
     padding: 12px 24px;
-    background-color: pink;
-    border-color: pink;
+    background-color: #cb416b;
+    border-color: #cb416b;
     color: black;
     font-weight: 500;
     border-radius: 6px;
@@ -82,8 +82,8 @@
 }
 
 .search-form button:hover {
-    background-color: #cb416b;
-    border-color: #cb416b;
+    background-color: pink;
+    border-color: pink;
     color: black
 }
 
