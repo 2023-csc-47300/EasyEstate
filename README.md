@@ -82,5 +82,5 @@ Application should be running on **localhost::3000**
 
 # API
 The Maps Embed API
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="50" height="50" hspace="20">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="20" height="20" hspace="20">
 
