@@ -5,6 +5,7 @@ import SignUp from "./pages/signup.js";
 import Login from "./pages/login.js";
 import Contact from "./pages/contact.js";
 import Navbar from "./components/navbar.js";
+import Listing from "./pages/listing.js";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { auth } from "./firbase.js"; 
 import { onAuthStateChanged } from "firebase/auth";
@@ -41,6 +42,7 @@ function App() {
           }
           />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/listing" element={<Listing />} />
       </Routes>
     </Router>
   );

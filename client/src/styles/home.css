@@ -31,7 +31,7 @@
 }
 
 .search-form-wrapper {
-    background-color: #FFFAFA;
+    background-color: #ffcfcf;
     margin-block-start: -100px;
     width: calc(100% - 80px);
     margin-inline: auto;
@@ -102,4 +102,8 @@
     border-radius: 4px;
     outline: none;
     transition: 0.25s ease;
+}
+
+.headings {
+    padding: 20px;
 }

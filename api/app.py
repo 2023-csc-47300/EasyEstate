@@ -27,6 +27,12 @@ from views.contactview import contact_bp
 app.register_blueprint(contact_bp)
 
 
+
+# save the properties to the database
+from views.propertyview import property_bp
+# Register blueprint for contact routes
+app.register_blueprint(property_bp)
+
 with app.app_context():
     db.create_all()
 
