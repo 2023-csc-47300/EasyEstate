@@ -75,7 +75,6 @@ Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
 - Sign up for an account.
 - Log in to their existing account.
 - Log in/sign up with email or with Google.
-- Favorite their listings and be able to see them on the profile page.
 
 # Front End & Back End
 |  Front End  |            Back End             | 
