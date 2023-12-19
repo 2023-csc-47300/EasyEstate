@@ -76,4 +76,4 @@ Application should be running on **localhost::3000**
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/2aea3ba1-bde5-4182-8567-d2668e532a79.png" width="90" height="100" hspace="20">
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/d8ea4f63-5009-4dd8-8ab1-b09f6f03cc34.png" width="130" height="140" hspace="10">
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/fe20c4e2-1d3d-4420-8c2b-6f922ac365e0.png" width="120" height="100" hspace="20">
-<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9db26785-b794-4881-8ad4-e768f5069fd5.png" width="120" height="100" hspace="20">
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9166c68d-03e6-4297-98d0-0f282d584522.png" width="120" height="100" hspace="20">
