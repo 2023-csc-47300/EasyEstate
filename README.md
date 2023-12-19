@@ -74,7 +74,7 @@ Application should be running on **localhost::3000**
 | JavaScript  |        Framework: Flask         | 
 |    Html     |        Database: SQLite         | 
 |    CSS      | Authentication: Google Firebase | 
-|  Bootstrap  |        Language: Pytho          | 
+|  Bootstrap  |        Language: Python         | 
 |   React     |  
 
 
