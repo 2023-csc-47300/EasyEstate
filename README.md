@@ -68,7 +68,9 @@ Open Command Prompt and run `npm start`
 Once we did all the steps, our application will start running. <br />
 Application should be running on **localhost::3000**
 
-# User can
+Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
+
+# Users can
 - Search for their dream house.
 - Sign up for an account.
 - Log in to their existing account.
