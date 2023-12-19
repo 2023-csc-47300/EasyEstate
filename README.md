@@ -80,4 +80,7 @@ Application should be running on **localhost::3000**
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9166c68d-03e6-4297-98d0-0f282d584522.png" width="120" height="100" hspace="20">
 <img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/9a4f1d8c-bb5c-4be5-94a7-8f27c2cddcf0.png" width="160" height="100" hspace="20">
 
+# API
+The Maps Embed API
+<img src="https://github.com/2023-csc-47300/EasyEstate/assets/100456553/4ea2f4ab-681f-44c2-9bb9-cad09887505f.png" width="100" height="100" hspace="20">
 
