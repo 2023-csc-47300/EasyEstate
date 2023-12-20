@@ -17,6 +17,13 @@ For our Website Design 473 class final project, we decided to build a **React ap
 ### Class Details
 Website Design - LEC 2TU - 20012
 
+# Application on Web - Heroku Deployment
+
+Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
+
+You can also run it locally by cloing the app and running npm start from the client directory.<br />
+Application should be running on **localhost::3000**
+
 # Application Overview
 ### Login Page
 Users can use this page to log in to their existing accounts. 
@@ -75,11 +82,7 @@ Open Command Prompt and run `npm start`
 - cd to "client" directory
 - npm start 
  
-### Application on Web
-Once we did all the steps, our application will start running. <br />
-Application should be running on **localhost::3000**
 
-Heroku Deployment: https://easy-estate-80134be2da71.herokuapp.com/
 
 # Users can
 - Search for their dream house.
